@@ -27,8 +27,5 @@
     "extract-zip": "1.6.7",
     "follow-redirects": "1.4.1",
     "fs-extra": "6.0.0"
-  },
-  "os": [
-    "!win32"
-  ]
+  }
 }
